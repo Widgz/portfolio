@@ -5,7 +5,7 @@ Olá, Bem vindo ao meu projeto de portfólio, realizado como parte da formação
 ![image](https://github.com/Widgz/portfolio/blob/main/Home.png)
 ![image](https://github.com/Widgz/portfolio/blob/main/About.png)
 
-##Online visualization:
+## Online visualization:
 ### Vercel Deploy: https://portfolio-xi-wine-85.vercel.app/index.html
 
 ## Ferramentas utilizadas:
